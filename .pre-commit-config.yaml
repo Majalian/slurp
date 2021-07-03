@@ -10,7 +10,7 @@ repos:
       - id: identity
       - id: check-hooks-apply
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v3.4.0
+    rev: v4.0.1
     hooks:
       - id: check-ast
       - id: check-builtin-literals
@@ -23,14 +23,17 @@ repos:
       # - id: check-xml
       - id: check-yaml
       - id: debug-statements
-      # - id: end-of-file-fixer
+      - id: detect-private-key
+      - id: end-of-file-fixer
+        exclude: ^charts/assets/.*$|^charts/lang/README\.de\.md$|^charts/log\.txt$|^charts/README\.md$|^docs/assets/js/.*$|^docs/assets/games/.*$|rubycritic/.*$
       - id: fix-byte-order-marker
       - id: mixed-line-ending
       # - id: pretty-format-json
       - id: requirements-txt-fixer
-      # - id: trailing-whitespace
+      - id: trailing-whitespace
+        exclude: ^rubycritic/.*$
   - repo: https://github.com/psf/black
-    rev: 21.4b0
+    rev: 21.5b1
     hooks:
       - id: black
         name: Run black on Python files
@@ -56,7 +59,7 @@ repos:
   #    - id: forbid-tabs
   #    - id: remove-tabs
   - repo: https://github.com/pre-commit/pygrep-hooks
-    rev: v1.8.0
+    rev: v1.9.0
     hooks:
       - id: python-check-mock-methods
       - id: python-no-eval

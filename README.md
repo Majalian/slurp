@@ -1,7 +1,7 @@
 # Slurp
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-26-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Fuchsia Programming](https://img.shields.io/website?label=github%20pages&url=https%3A%2F%2Ffuchsia.surf%2F)](https://slurpcode.github.io/slurp)
@@ -21,18 +21,39 @@
 [![codebeat](https://codebeat.co/badges/0f22c395-4213-4f0b-b5a6-22b68c1ba7eb)](https://codebeat.co/projects/github-com-slurpcode-slurp-master)
 [![CodeFactor](https://www.codefactor.io/repository/github/slurpcode/slurp/badge)](https://www.codefactor.io/repository/github/slurpcode/slurp)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/slurpcode/slurp.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/slurpcode/slurp/alerts/)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/y/slurpcode/slurp.svg)](https://github.com/slurpcode/slurp/graphs/contributors)
-[![GitHub last commit](https://img.shields.io/github/last-commit/slurpcode/slurp.svg)](https://github.com/slurpcode/slurp/commits/master)
 ![GitHub repo size](https://img.shields.io/github/repo-size/slurpcode/slurp.svg)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/slurpcode/slurp.svg)
-![GitHub language count](https://img.shields.io/github/languages/count/slurpcode/slurp.svg)
-![GitHub top language](https://img.shields.io/github/languages/top/slurpcode/slurp.svg)
 ![GitHub search hit counter](https://img.shields.io/github/search/slurpcode/slurp/jekyll.svg)
 
 ![Lode Runner](docs/assets/images/gifs/lode-runner.gif "Lode Runner")
 ![Star Wars](docs/assets/images/gifs/star-wars-2.gif "Star Wars")
 
-## Repository Overview
+<div align="center">
+
+<p>
+    <a href="https://onelang.org/" alt="The One Programming Language">
+        <img width="150" src="https://avatars.githubusercontent.com/u/40718659?s=200&v=4" alt="The One Programming Language">
+    </a>
+</p>
+
+## The One Programming Language 💚 💙 🧡 🤍 💖 🖤
+
+[Onelang.org](https://onelang.org) |
+[Help wanted](https://github.com/One-Language/One/issues/new)
+
+</div>
+<div align="center">
+
+<!--
+[![Build Status][WorkflowBadge]][WorkflowUrl]
+-->
+[![Patreon][PatreonBadge]][PatreonUrl]
+[![Discord][DiscordBadge]][DiscordUrl]
+[![Twitter][TwitterUrl]][TwitterBadge]
+
+</div>
+
+## slurp overview
 
 - [built-in-datatypes](https://slurp.readthedocs.io/en/latest/built-in-datatypes.html) - Command line Ruby script that checks if XML schema files are using the correct built-in data types
 - [charts](https://slurp.onrender.com/) - Static site built with Ruby on [Render](https://render.com/)
@@ -228,9 +249,19 @@ Thanks goes to these wonderful people
   <tr>
     <td align="center"><a href="https://houndci.com"><img src="https://avatars.githubusercontent.com/u/17184073?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hound</b></sub></a><br /><a href="https://github.com/slurpcode/slurp/pulls?q=is%3Apr+reviewed-by%3Ahoundci" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/Idaaraica"><img src="https://avatars.githubusercontent.com/u/27341901?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Idaís Araica</b></sub></a><br /><a href="https://github.com/slurpcode/slurp/commits?author=Idaaraica" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://www.upwork.com/freelancers/~013dd1f9db3380689d"><img src="https://avatars.githubusercontent.com/u/81928799?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mujahid Al-Majali</b></sub></a><br /><a href="https://github.com/slurpcode/slurp/commits?author=Majalian" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://aleksandarjakovljevic.com/"><img src="https://avatars.githubusercontent.com/u/2115393?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aleksandar Jakovljevic</b></sub></a><br /><a href="https://github.com/slurpcode/slurp/commits?author=ajakov" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/basalumutgazi"><img src="https://avatars.githubusercontent.com/u/81925269?v=4?s=100" width="100px;" alt=""/><br /><sub><b>basalumutgazi</b></sub></a><br /><a href="https://github.com/slurpcode/slurp/commits?author=basalumutgazi" title="Documentation">📖</a></td>
   </tr>
 </table>
 
+[DiscordBadge]: https://img.shields.io/discord/834373930692116531?label=Discord&logo=discord&logoColor=white
+[PatreonBadge]: https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Donelanguage%26type%3Dpledges
+[SponsorBadge]: https://camo.githubusercontent.com/da8bc40db5ed31e4b12660245535b5db67aa03ce/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d53706f6e736f72266d6573736167653d254532253944254134266c6f676f3d476974487562
+[TwitterBadge]: https://twitter.com/onelangteam
+[DiscordUrl]: https://discord.gg/sFCE2HcMCa
+[PatreonUrl]: https://patreon.com/onelanguage
+[TwitterUrl]: https://img.shields.io/twitter/follow/onelangteam.svg?style=flatl&label=Follow&logo=twitter&logoColor=white&color=1da1f2
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 

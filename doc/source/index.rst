@@ -7,17 +7,89 @@ Welcome to slurp's documentation!
 =================================
 
 .. toctree::
-   :caption: General Technical Content
+   :caption: Start Here
    :maxdepth: 2
 
    getting-started.md
    codewars.md
+   git.md
+
+.. toctree::
+   :caption: Cities
+   :maxdepth: 2
+
+   amman.md
+   brisbane.md
+   dharamshala.md
+   dubai.md
+   hongkong.md
+   istanbul.md
+   melbourne.md
+   moscow.md
+   newcastle.md
+   paris.md
+   prescott.md
+
+.. toctree::
+   :caption: Countries
+   :maxdepth: 2
+
+   jordan.md
+   turkey.md
+
+.. toctree::
+   :caption: Notable Locations
+   :maxdepth: 2
+
+   chino-valley.md
+
+.. toctree::
+   :caption: States
+   :maxdepth: 2
+
+   arizona.md
+   colorado.md
+
+.. toctree::
+   :caption: Drinks
+   :maxdepth: 2
+
+   arak.md
+   beer.md
+   whiskey.md
+
+.. toctree::
+   :caption: Easy Going Reading
+   :maxdepth: 2
+
+   activism.md
+   australian-army.md
+   ball-aero.md
+   cooking.md
+   dogs.md
+   driving-off-road.md
+   first-australian-task-force.md
+   casino-gaming.md
+   pc-maintenance.md
+   pizza.md
+   silversmith.md
+   working-out.md
+
+.. toctree::
+   :caption: Television
+   :maxdepth: 2
+
+   downton-abbey.md
+
+.. toctree::
+   :caption: General Technical Content
+   :maxdepth: 2
+
    codewars-scraper.md
    java-client-with-ibm-system-i.md
    flicker-diff.md
    dita-to-pdf-with-eclipse.md
    eclipse-cheatsheets-to-dita-to-pdf.md
-   git.md
    gnu-aspell.md
    go.md
    links.md
@@ -45,6 +117,9 @@ Welcome to slurp's documentation!
    gauss-jordan.md
    fermat.md
    fibonacci.md
+   st-deviation.md
+   statistical-est.md
+   common-errors.md
 
 .. toctree::
    :caption: Python
@@ -67,27 +142,6 @@ Welcome to slurp's documentation!
    ruby-strip.md
    seek.md
    well-formed.md
-
-.. toctree::
-   :caption: World Locations
-   :maxdepth: 2
-
-   arizona.md
-   jordan.md
-
-.. toctree::
-   :caption: Easy Going Reading
-   :maxdepth: 2
-
-   activism.md
-   beer.md
-   cooking.md
-   dogs.md
-   driving-off-road.md
-   casino-gaming.md
-   pizza.md
-   pc-maintenance.md
-   working-out.md
 
 Indices and tables
 ==================
